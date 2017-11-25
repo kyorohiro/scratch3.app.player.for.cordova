@@ -10,7 +10,7 @@ cp -r {this www} ./www
 cordova run browser
 ```
 
-#FOR ANDROID
+# FOR ANDROID
 ```
 cordova platform add android
 cordova build android
@@ -18,15 +18,17 @@ cordova run android
 ```
 
 
-#REF
+# REF
 
-https://github.com/LLK/scratch-vm
+- https://github.com/LLK/scratch-vm
+- https://cordova.apache.org/#getstarted
 
 
-#LICENSE
+# LICENSE
 
 Use following code in this repository.
 
-https://github.com/LLK/scratch-vm
+- https://github.com/LLK/scratch-vm
+
 
 
