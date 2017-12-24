@@ -1,6 +1,11 @@
 Scratch3 App Player
 now creating.
 
+move to 
+https://github.com/kyorohiro/doc.advent.scratch30/tree/master/app-player-for-cordova
+
+
+
 # RUN
 ```
 npm install -g cordova
